@@ -1,6 +1,6 @@
 #  About Me:
 Hello, I’m  MOHAN
-<br><br>Computer Science / AI-ML Engineering Student<br><br>Dedicated to solving complex problems with efficient, scalable code<br><br>Currently in a journey of learning Development and ML Models.<br><br>Knowe more about me : https://mohan24th.github.io/Portfolio/
+<br><br>Computer Science / AI-ML Engineering Student<br><br>Dedicated to solving complex problems with efficient, scalable code<br><br>Currently in a journey of learning Development and ML Models.<br>
 
 
 #  Tech Stack:
